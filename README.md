@@ -33,7 +33,7 @@ In conclusion, I decided to use the hyperparameters used in [this article](https
 
 Moreover, I used Adam Optimizer instead of RMSProp Optimizer which experimentally has given me better results in a shorter period of time. My DQN required 700 episoded which are around 5 hours and 20 minutes to master Pong and more than 3000 episodes which are around 13 hours and 30 minutes to play decently Breakout.
 
-![Result after training](www.demiledge.com/structureFiles/Images/DQN4.png)
+![Result after training](http://demiledge.com/structureFiles/Images/DQN4.png)
 
 ## Sources
 * [arXiv](https://arxiv.org/abs/1312.5602) by Deepmind
