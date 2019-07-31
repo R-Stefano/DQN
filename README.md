@@ -3,7 +3,7 @@
 ## About
 Replicating Google Deepmind's paper "Playing Atari with Deep Reinforcement Learning"
 
-[Full article on the paper here](http://demiledge.com/artificialIntelligence/DQN.php)
+[Full article on the paper here](http://www.stefanorosa.me/topicboard/artificialIntelligence/DQN)
 
 ## Dependencies
 * Numpy
